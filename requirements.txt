@@ -1,5 +1,0 @@
-logging
-requests
-requests.exceptions.HTTPError
-json
-pandas
